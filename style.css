@@ -1,0 +1,17 @@
+body::before{
+    display: block;
+    content: '';
+    height: 3rem;
+}
+
+#map{
+    width: 100%;
+    width: 100%;
+    background-image: url("https://g.page/kakanfo-inn-conference-center?share");
+    border-radius: 2rem;
+}
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
